@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ogeeEphie
 - 👀 I’m interested in Crytocurrency, Data Analytics
 - 🌱 I’m currently learning Ecommerce
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me ephraimjohngyang90@gmail.com
 
 <!---
